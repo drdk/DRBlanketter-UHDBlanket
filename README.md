@@ -32,4 +32,3 @@ PRD-DEPLOY.ps1
 ## Forudsætninger
 
 Blanketsystemet
-Tabellen bl_aviser
