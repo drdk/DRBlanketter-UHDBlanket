@@ -795,13 +795,13 @@
         <column name="mail_from"/>
         <column name="mail_subject"/>
         <column name="mail_to"/>
-        <column name="new_status"><![CDATA[REJECTED]]></column>
+        <column name="new_status"><![CDATA[REJECTED_FINISHED]]></column>
         <column name="next_user"><![CDATA[null]]></column>
         <column name="postaction"/>
         <column name="preaction"/>
         <column name="status"><![CDATA[CREATED]]></column>
-        <column name="updated_by"><![CDATA[LANR]]></column>
-        <column name="updated_date"><![CDATA[13-10-2023 15:49:48]]></column>
+        <column name="updated_by"><![CDATA[RUJO]]></column>
+        <column name="updated_date"><![CDATA[27-10-2023 11:45:44]]></column>
       </row>
     </tabledata>
   </table>
