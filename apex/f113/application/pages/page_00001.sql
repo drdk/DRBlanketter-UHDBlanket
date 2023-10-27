@@ -21,7 +21,7 @@ wwv_flow_api.create_page(
 ,p_page_template_options=>'#DEFAULT#'
 ,p_protection_level=>'C'
 ,p_last_updated_by=>'RUJO'
-,p_last_upd_yyyymmddhh24miss=>'20231023135003'
+,p_last_upd_yyyymmddhh24miss=>'20231026105711'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(44351219753593137)
@@ -422,7 +422,7 @@ wwv_flow_api.create_page_item(
 ,p_item_sequence=>180
 ,p_item_plug_id=>wwv_flow_api.id(44126437997640311)
 ,p_item_source_plug_id=>wwv_flow_api.id(44126437997640311)
-,p_prompt=>'Begrundelse for UHD-produktion.'
+,p_prompt=>'Begrundelse for UHD-produktion'
 ,p_source=>'CLOB_ATTRIBUTE1'
 ,p_source_type=>'REGION_SOURCE_COLUMN'
 ,p_display_as=>'NATIVE_TEXTAREA'

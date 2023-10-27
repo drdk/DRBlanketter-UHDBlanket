@@ -751,13 +751,13 @@
         <column name="mail_from"/>
         <column name="mail_subject"/>
         <column name="mail_to"/>
-        <column name="new_status"><![CDATA[APPROVED]]></column>
+        <column name="new_status"><![CDATA[PROCESSED]]></column>
         <column name="next_user"><![CDATA[null]]></column>
         <column name="postaction"/>
         <column name="preaction"/>
         <column name="status"><![CDATA[CREATED]]></column>
-        <column name="updated_by"><![CDATA[LANR]]></column>
-        <column name="updated_date"><![CDATA[13-10-2023 15:49:48]]></column>
+        <column name="updated_by"><![CDATA[RUJO]]></column>
+        <column name="updated_date"><![CDATA[25-10-2023 15:35:23]]></column>
       </row>
       <row tablename="bl_action_process">
         <column name="action"><![CDATA[CREATE]]></column>

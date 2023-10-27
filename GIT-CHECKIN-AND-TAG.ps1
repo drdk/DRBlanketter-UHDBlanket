@@ -1,7 +1,7 @@
 git pull
 git add --all
-git commit -m "Run build 1.0.0.3" 
+git commit -m "Version i produktion" 
 git push origin
-git tag "1.0.0.3"
+git tag "1.0.0.4"
 git push origin --tags
 git log --pretty=oneline
